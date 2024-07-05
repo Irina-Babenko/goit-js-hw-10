@@ -44,11 +44,6 @@ body {
   border-color: #4e75ff;
 }
 
-/* .form input[type='number'],
-.form input[type='radio'] {
-  margin-left: 5px;
-  border-radius: 4px;
-} */
 .form button {
   display: block;
   width: 100%;
